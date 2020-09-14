@@ -1,6 +1,4 @@
 version: 0.1
 ironSAST:
  php:
-  scan_level: "2
-  \n
-  ; sleep 200;"
+  scan_level: "4"
