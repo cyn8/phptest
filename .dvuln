@@ -1,4 +1,4 @@
 version: 0.1
 ironSAST:
  php:
-  scan_level: "bla"
+  scan_level: "4"
